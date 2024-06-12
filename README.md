@@ -1,5 +1,3 @@
-##Description
-
 The Bomberman_pic.png file is needed to run the bomberman-dom project stored in Gitea folder: 
 https://learn.01founders.co/git/AthenaHTA2/bomberman-dom.
 As Gitea has a file size limit of 1MB, Bomberman_pic.png could not be uploaded into https://learn.01founders.co/git/AthenaHTA2/bomberman-dom.
